@@ -1,0 +1,16 @@
+body {
+  height: 1280px;
+  width: 1024px;
+  margin: 0;
+  padding: 0;
+  margin-left: auto;
+    margin-right: auto;
+  background-color: rgba(83, 27, 36, 1);
+}
+.first{
+    position: relative;
+}
+.vinyl-all {
+  margin-bottom: 30px;
+}
+
